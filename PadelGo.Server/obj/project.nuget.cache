@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPmWhJEWBvdpJd8mp+vPK1nE3s+Rd38TubTgDHVEhvJl2nnmH5i9MCHZz23GCghr7n0qUxISx56i/AjjvH1YrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aflo2\\Desktop\\P2I\\PadelGo.Server\\P2I.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aflo2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\aflo2\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aflo2\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\aflo2\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\aflo2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\aflo2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
